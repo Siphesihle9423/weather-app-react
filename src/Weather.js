@@ -65,20 +65,17 @@ export default function Weather() {
       </div>
       <footer>
         This project was coded by
-        <a href="https://github.com/dashboard" target="_blank">
+        <a href="https://github.com/dashboard">
           Siphesihle Dlamini</a
         >, is
         <a
           href="https://github.com/Siphesihle9423/weather-app-react"
-          target="_blank"
           >open-sourced on GitHub</a
         >
         and
-        <a href="https://lucent-dodol-b6f028.netlify.app/" target="_blank"
+        <a href="https://lucent-dodol-b6f028.netlify.app/" 
           >hosted on Netlify</a>
       </footer>
     </div>
   );
 }
-
-
