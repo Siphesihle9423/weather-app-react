@@ -75,8 +75,7 @@ export default function Weather() {
         >
         and
         <a href="https://lucent-dodol-b6f028.netlify.app/" target="_blank"
-          >hosted on Netlify</a
-        >
+          >hosted on Netlify</a>
       </footer>
     </div>
   );
